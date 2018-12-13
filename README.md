@@ -13,7 +13,7 @@
 
 ####  [fast style transfer](https://github.com/lengstrom/fast-style-transfer) 
 
-####  [Mask R-CNN](https://github.com/matterport/Mask_RCNN) 
+####  [Realtime face detection](https://github.com/oarriaga/face_classification) 
 
 
 
