@@ -15,6 +15,9 @@
 
 ####  [Realtime face detection](https://github.com/oarriaga/face_classification) 
 
+####  [Detectron](https://github.com/facebookresearch/Detectron) 
+
+####  [BerryNet:Edge Devices](https://github.com/DT42/BerryNet) 
 
 
 ---
