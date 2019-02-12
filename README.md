@@ -5,11 +5,15 @@
 
 ## [简介](https://github.com/tfzoo/CNN/wiki) 
 
-
+[CNN = Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network) . A convolutional neural network consists of an input and an output layer, as well as multiple hidden layers. The hidden layers of a CNN typically consist of convolutional layers, RELU layer i.e. activation function, pooling layers, fully connected layers and normalization layers.
 
 ## [组成](tfzoo/) 
 
-####  [Text Classification](https://github.com/dennybritz/cnn-text-classification-tf) 
+###  [CNN示例](examples/) 
+
+####  [mnist示例](examples/mnist/) 
+
+####  [Text Classification文本分类](examples/classification/) 
 
 ####  [fast style transfer](https://github.com/lengstrom/fast-style-transfer) 
 
@@ -17,14 +21,12 @@
 
 ####  [Detectron](https://github.com/facebookresearch/Detectron) 
 
-####  [BerryNet:Edge Devices](https://github.com/DT42/BerryNet) 
+####  [边缘设备BerryNet:Edge Devices](https://github.com/DT42/BerryNet) 
 
 
 ---
 
-###  [tfzoo：tensorflow models zoo](http://www.tfzoo.com)
-###  qitas@qitas.cn
-###  2018-12-13
-
-
+###  [tfzoo ：tensorflow models zoo](http://www.tfzoo.com)
+####  qitas@qitas.cn
+#### 天府动物园
 
